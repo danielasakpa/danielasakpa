@@ -24,7 +24,7 @@
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="100" >
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username={username}">
+<img src="https://github-readme-stats.vercel.app/api?username={danielasakpa}">
 
 
 https://github-readme-stats.vercel.app/api/top-langs/?username={danielasakpa}
