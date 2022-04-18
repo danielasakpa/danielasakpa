@@ -4,10 +4,13 @@
 
 
 
-- 📖 I’m currently mastering JavaScript and node.js
--  I love building new things
--  🐙 Developer work experience
-- :raising_hand_man: currently looking for a mentor :smiley:
+. 📖 I’m currently mastering JavaScript and node.js
+- 
+.  I love building new things
+-  
+. 📫 You can reach <a href="mailto:danielasakpa@gmaile.com">me</a>
+-  
+. :raising_hand_man: currently looking for a mentor :smiley:
 
 <h2>Languages & Tools I Use:</h2>
 
