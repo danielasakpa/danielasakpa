@@ -4,13 +4,13 @@
 
 
 
-. 📖 I’m currently mastering JavaScript and node.js
+- 📖 I’m currently mastering JavaScript and node.js
 <br>
-.  I love building new things
+-  I love building new things
 <br>
-. 📫 You can reach <a href="mailto:danielasakpa@gmaile.com">me</a>
+- 📫 You can reach <a href="mailto:danielasakpa@gmaile.com">me</a>
 <br>
-. :raising_hand_man: currently looking for a mentor :smiley:
+- :raising_hand_man: currently looking for a mentor :smiley:
 
 <h2>Languages & Tools I Use:</h2>
 
