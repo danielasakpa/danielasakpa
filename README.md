@@ -24,7 +24,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username={danielasakpa}">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?danielasakpa">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={danielasakpa}">
 
 
 <h2><a href="https://danielasakpa.github.io/portfolio-website/">check out my portfolio</a></h2>
