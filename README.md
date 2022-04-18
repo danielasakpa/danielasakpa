@@ -19,12 +19,10 @@
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="100" display="inline">
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="100" display="inline">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" display="inline">
-
- <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="100" >
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="100" >
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username={danielasakpa}">
+<img src="https://github-readme-stats.vercel.app/api?username={DANIEL ASAKPA}">
 
 
 https://github-readme-stats.vercel.app/api/top-langs/?username={danielasakpa}
