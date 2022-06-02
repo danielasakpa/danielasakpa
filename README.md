@@ -25,10 +25,15 @@
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="100" >
 </p>
 
-<h2>support:</h2>
+<h2>GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=danielasakpa">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielasakpa">
+<a href="https://github.com/danielasakpa">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielasakpa&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/danielasakpa">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=danielasakpa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="danielasakpa's GitHub Stats" />
+</a>
 
 
 <h3><a href="https://danielasakpa.github.io/portfolio-website/">check out my portfolio</a></h3>
