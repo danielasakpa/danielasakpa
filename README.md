@@ -30,11 +30,11 @@
 <h2>GitHub Stats</h2>
 
 <a href="https://github.com/danielasakpa">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielasakpa&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=danielasakpa&theme=dark&show_icons=true" />
 </a>
 
 <a href="https://github.com/danielasakpa">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=danielasakpa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="danielasakpa's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielasakpa&hide=css,Html&theme=dark&show_icons=truel" />
 </a>
 
 
