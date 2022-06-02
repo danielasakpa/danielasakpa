@@ -1,5 +1,7 @@
-<h1 align="center">:man_technologist: HI, I'm DANIEL ASAKPA 👋</h1>
+![Daniel Asakap](https://github.com/danielasakpa/danielasakpa/blob/main/header.png)
 
+<!-- <h1 align="center">:man_technologist: HI, I'm DANIEL ASAKPA 👋</h1>
+ -->
 <h1 align="center">FRONT-END-DEVELOPER</h1>
 
 
