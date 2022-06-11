@@ -34,7 +34,7 @@
 </a>
 
 <a href="https://github.com/danielasakpa">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielasakpa&hide=css,Html&theme=dark&show_icons=truel" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielasakpa&hide=Html&theme=dark&show_icons=truel" />
 </a>
 
 
