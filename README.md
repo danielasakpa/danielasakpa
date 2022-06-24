@@ -46,10 +46,10 @@
 <h2 style="margin:0.5rem">Let's Connect:</h2>
 
 <div>
-<a href="https://twitter.com/oba_code">
+<a href="https://twitter.com/oba_code" target="_blank">
   <img style="margin:0.5rem" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/oba.code/?hl=en">
+<a href="https://www.instagram.com/oba.code/?hl=en" target="_blank">
   <img style="margin:0.5rem" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </div>
