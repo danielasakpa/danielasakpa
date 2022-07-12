@@ -6,7 +6,7 @@
 
 
 
-- 📖 I’m currently mastering JavaScript and node.js
+- 📖 I’m currently mastering Algo, DS and React
 
 -  I love building new things
 
