@@ -1,4 +1,4 @@
-![Daniel Asakap](https://github.com/danielasakpa/danielasakpa/blob/main/header.png)
+![Daniel Asakap](https://github.com/danielasakpa/danielasakpa/blob/main/bedroom.gif)
 
 <!-- <h1 align="center">:man_technologist: HI, I'm DANIEL ASAKPA 👋</h1>
  -->
