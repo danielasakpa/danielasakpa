@@ -1,6 +1,12 @@
 # Daniel Asakpa - Frontend Developer 👨‍💻
 
-![Daniel Asakap](https://github.com/danielasakpa/danielasakpa/blob/main/coding.gif)
+<!--  ![Daniel Asakap](https://github.com/danielasakpa/danielasakpa/blob/main/coding.gif) -->
+
+<p align="center">
+  <img src="https://github.com/danielasakpa/danielasakpa/blob/main/coding.gif" alt="Alt Text" height="300px">
+</p>
+
+
 
 ## Hi, I'm Daniel! 👋
 
