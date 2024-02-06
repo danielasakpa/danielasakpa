@@ -1,21 +1,16 @@
+# Daniel Asakpa - Frontend Developer 👨‍💻
+
 ![Daniel Asakap](https://github.com/danielasakpa/danielasakpa/blob/main/bedroom.gif)
 
-<!-- <h1 align="center">:man_technologist: HI, I'm DANIEL ASAKPA 👋</h1>
- -->
-<h1 align="center">FRONT-END-DEVELOPER</h1>
+## Hi, I'm Daniel! 👋
 
+### About Me
+I'm a passionate Frontend Developer with expertise in creating engaging user interfaces.
 
+### Contact
+📫 How to reach me: [Portfolio](https://daniel-asakpa-portfolio.netlify.app/)
 
-- 📖 I’m currently mastering Algo, DS and React
-
--  I love building new things
-
-- 📫 You can reach <a href="mailto:danielasakpa@gmaile.com">me</a>
-
-- :raising_hand_man: currently looking for a mentor :smiley:
-
-<h2>Languages & Tools I Use:</h2>
-
+### :hammer_and_wrench:  Languages & Tools
 <div float="left">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100">
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100">
@@ -26,33 +21,22 @@
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="100" display="inline">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" display="inline">
  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="100" display="inline">
+ <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" width="100" display="inline">
  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" width="100" display="inline">
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="100" >
 </div>
 
-<h2 >GitHub Stats</h2>
+### Here are some ideas to get you started:
+- Currently working with React and JavaScript.
+- Learning NextJS and TypeScript.
+- Open to collaboration with fellow Web Developers.
+- Feel free to ask me about anything tech at [danielasakpa@gmail.com](mailto:danielasakpa@gmail.com).
+- Fun fact: I love watching Anime and creating programming content on [TikTok](https://www.tiktok.com/@?_t=8jR4aSHP4oH&_r=1).
 
-<div>
-<a href="https://github.com/danielasakpa">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=danielasakpa&theme=dark&show_icons=true" />
-</a>
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielasakpa&theme=dark&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielasakpa&hide=shell,Html&theme=dark&show_icons=true)
 
-<a href="https://github.com/danielasakpa">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielasakpa&hide=shell,Html&theme=dark&show_icons=truel" />
-</a>
-</div>
-
-
-<h2 style="margin:0.5rem">Let's Connect:</h2>
-
-<div>
-<a href="https://twitter.com/oba_code" target="_blank">
-  <img style="margin:0.5rem" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/oba.code/?hl=en" target="_blank">
-  <img style="margin:0.5rem" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-</div>
-
-
-
+### Let's Connect
+- [Twitter](https://twitter.com/oba_code)
+- [Instagram](https://www.instagram.com/oba.code/?hl=en)
