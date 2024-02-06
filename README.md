@@ -1,6 +1,6 @@
 # Daniel Asakpa - Frontend Developer 👨‍💻
 
-![Daniel Asakap](https://github.com/danielasakpa/danielasakpa/blob/main/bedroom.gif)
+![Daniel Asakap](https://github.com/danielasakpa/danielasakpa/blob/main/coding.gif)
 
 ## Hi, I'm Daniel! 👋
 
