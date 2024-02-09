@@ -32,6 +32,8 @@ I'm a passionate Frontend Developer with expertise in creating engaging user int
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="100" >
 </div>
 
+
+
 ### Here are some ideas to get you started:
 - Currently working with React and JavaScript.
 - Learning NextJS and TypeScript.
@@ -40,8 +42,42 @@ I'm a passionate Frontend Developer with expertise in creating engaging user int
 - Fun fact: I love watching Anime and creating programming content on [TikTok](https://www.tiktok.com/@?_t=8jR4aSHP4oH&_r=1).
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielasakpa&theme=dark&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielasakpa&hide=shell,Html&theme=dark&show_icons=true)
+<p float="left">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=danielasakpa&show_icons=true&count_private=true&title_color=14b8a6&icon_color=14b8a6&theme=dark&bg_color=00000000&hide_border=true&card_width=410"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=danielasakpa&show_icons=true&count_private=true&title_color=14b8a6&icon_color=14b8a6&theme=light&bg_color=00000000&hide_border=true&card_width=410"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img alt="Daniel's Github Stats" style="vertical-align: top;"/>
+</picture>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielasakpa&theme=dark&bg_color=00000000&title_color=14b8a6&hide_border=true&layout=compact&langs_count=8&hide=cmake"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielasakpa&theme=light&bg_color=00000000&title_color=14b8a6&hide_border=true&layout=compact&langs_count=8&hide=cmake"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img alt="Daniel's Top Languages" style="vertical-align: top;"/>
+</picture>
+</p>
+
+<picture>
+<source 
+  srcset="https://github-profile-trophy.vercel.app/?username=danielasakpa&theme=onestar&no-frame=true&no-bg=true&rank=-C,-B"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-profile-trophy.vercel.app/?username=danielasakpa&theme=flat&no-frame=true&no-bg=true&rank=-C,-B"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img alt="Sam's GitHub Awards" style="vertical-align: top;"/>
+</picture>
 
 ### Let's Connect
 - [Twitter](https://twitter.com/oba_code)
