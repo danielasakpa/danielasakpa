@@ -1,6 +1,8 @@
 # Daniel Asakpa - Frontend Developer 👨‍💻
 
 <!--  ![Daniel Asakap](https://github.com/danielasakpa/danielasakpa/blob/main/coding.gif) -->
+<!--  ![Profile Views](https://api.visitorbadge.io/api/visitors?path=danielasakpa&label=Visitors&countColor=%2314b8a6) -->
+
 
 <p align="center">
   <img src="https://github.com/danielasakpa/danielasakpa/blob/main/coding.gif" alt="Alt Text" height="300px">
