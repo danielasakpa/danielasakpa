@@ -1,4 +1,4 @@
-# Daniel Asakpa - Frontend Developer 👨‍💻
+# Hi, I'm Daniel! 👋
 
 <!--  ![Daniel Asakap](https://github.com/danielasakpa/danielasakpa/blob/main/coding.gif) -->
 <!--  ![Profile Views](https://api.visitorbadge.io/api/visitors?path=danielasakpa&label=Visitors&countColor=%2314b8a6) -->
@@ -9,11 +9,8 @@
 </p>
 
 
-
-## Hi, I'm Daniel! 👋
-
 ### About Me
-I'm a passionate Frontend Developer with expertise in creating engaging user interfaces.
+#### I'm a passionate Frontend Developer with expertise in creating engaging user interfaces.
 
 ### Contact
 📫 How to reach me: [Portfolio](https://daniel-asakpa-portfolio.netlify.app/)
