@@ -10,7 +10,7 @@
 
 
 ### About Me
-#### I'm a passionate Frontend Developer with expertise in creating engaging user interfaces.
+#### I'm a passionate Full Stack Developer with expertise in creating engaging user interfaces.
 
 ### Contact
 📫 How to reach me: [Portfolio](https://daniel-asakpa-portfolio.netlify.app/)
