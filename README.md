@@ -79,5 +79,5 @@
 </picture>
 
 ### Let's Connect
-- [Twitter](https://twitter.com/oba_code)
+- [Twitter](https://twitter.com/daniel_asakpa)
 - [Instagram](https://www.instagram.com/oba.code/?hl=en)
