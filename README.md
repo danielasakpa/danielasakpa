@@ -66,7 +66,7 @@
 </picture>
 </p>
 
-<picture>
+ <picture>
 <source 
   srcset="https://github-profile-trophy.vercel.app/?username=danielasakpa&theme=onestar&no-frame=true&no-bg=true&rank=-C,-B"
   media="(prefers-color-scheme: dark)"
@@ -76,7 +76,9 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img alt="Sam's GitHub Awards" style="vertical-align: top;"/>
-</picture>
+</picture> 
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielasakpa&theme=dark" alt="ivanwritescode" /></p> -->
 
 ### Let's Connect
 - [Twitter](https://twitter.com/daniel_asakpa)
