@@ -1,7 +1,7 @@
 # Hi, I'm Daniel! 👋
 
 <!--  ![Daniel Asakap](https://github.com/danielasakpa/danielasakpa/blob/main/coding.gif) -->
-<!--  ![Profile Views](https://api.visitorbadge.io/api/visitors?path=danielasakpa&label=Visitors&countColor=%2314b8a6) -->
+<!--  ![Profile View](https://api.visitorbadge.io/api/visitors?path=danielasakpa&label=Visitors&countColor=%2314b8a6) -->
 
 
 <p align="center">
