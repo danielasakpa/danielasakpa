@@ -64,6 +64,7 @@
 />
 <img alt="Daniel's Top Languages" style="vertical-align: top;"/>
 </picture>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielasakpa&theme=dark" alt="ivanwritescode" /></p> -->
 </p>
 
  <picture>
@@ -77,8 +78,6 @@
 />
 <img alt="Sam's GitHub Awards" style="vertical-align: top;"/>
 </picture> 
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielasakpa&theme=dark" alt="ivanwritescode" /></p> -->
 
 ### Let's Connect
 - [Twitter](https://twitter.com/daniel_asakpa)
